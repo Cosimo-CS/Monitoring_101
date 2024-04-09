@@ -33,10 +33,6 @@ Conducted real user monitoring, analyzing user interactions to enhance overall w
 Enhanced security monitoring protocols, fortifying network defenses against breaches and unauthorized access.
 Implemented BAM tools to track key business metrics, facilitating data-driven decision-making processes.
 
-## Education
-
-Bachelor of Science in Computer Science
-[University Name], [Year]
 
 ## Certifications
 
