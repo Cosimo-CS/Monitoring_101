@@ -49,7 +49,7 @@ Highly skilled IT professional with a comprehensive understanding of various IT 
 
 This resume emphasizes your expertise in IT monitoring without being copied from someone else. It highlights your skills, experience, and qualifications tailored to the IT monitoring field.
 
-===============================================================================================================
+-----------------------------------------
 
 # Let's go more in details about Monitoring
 
