@@ -70,3 +70,8 @@ ps aux --sort=-%mem | head
 
 It will lists all processes sorted by memory usage, with the most memory-intensive processes displayed at the top. It uses the -%mem flag to sort by memory usage percentage.
 
+*********************************************
+
+         UNDER CONSTRUCTION ...
+
+*********************************************
