@@ -19,19 +19,19 @@ Highly skilled IT professional with a comprehensive understanding of various IT 
 - Business Activity Monitoring (BAM)
 - Troubleshooting
 - Cloud Integration
-- Professional Experience
+
+## Professional Experience
 
 - IT Monitoring Specialist
 - XYZ Tech Solutions
 
-
-Spearheaded availability monitoring initiatives, ensuring uninterrupted system uptime and performance.
-Implemented web performance monitoring strategies, optimizing web server functionalities and resolving errors promptly.
-Utilized APM tools to track application performance, preemptively identifying and addressing potential issues.
-Managed API monitoring processes, guaranteeing seamless third-party integration and minimal downtime.
-Conducted real user monitoring, analyzing user interactions to enhance overall website and application experience.
-Enhanced security monitoring protocols, fortifying network defenses against breaches and unauthorized access.
-Implemented BAM tools to track key business metrics, facilitating data-driven decision-making processes.
+- Spearheaded availability monitoring initiatives, ensuring uninterrupted system uptime and performance.
+- Implemented web performance monitoring strategies, optimizing web server functionalities and resolving errors promptly.
+- Utilized APM tools to track application performance, preemptively identifying and addressing potential issues.
+- Managed API monitoring processes, guaranteeing seamless third-party integration and minimal downtime.
+- Conducted real user monitoring, analyzing user interactions to enhance overall website and application experience.
+- Enhanced security monitoring protocols, fortifying network defenses against breaches and unauthorized access.
+- Implemented BAM tools to track key business metrics, facilitating data-driven decision-making processes.
 
 
 ## Certifications
