@@ -1,4 +1,4 @@
-# Monitoring 101
+# Monitoring 101 (Linux)
 Administration on monitoring linux
 
 
@@ -48,3 +48,20 @@ Highly skilled IT professional with a comprehensive understanding of various IT 
 ## Conclusion
 
 This resume emphasizes your expertise in IT monitoring without being copied from someone else. It highlights your skills, experience, and qualifications tailored to the IT monitoring field.
+
+===============================================================================================================
+
+# Let's go more in details about Monitoring
+
+## 1. How can you check what are the most memory intensive running processes ?
+
+You can use 2 types of commands:
+
+- top
+
+It will display a dynamic real-time view of the running processes. 
+By default, it sorts processes by CPU usage, but you can change it to sort by memory usage by pressing Shift + M. This will reorder the processes with the highest memory usage at the top.
+
+- ps aux --sort=-%mem | head
+
+It will lists all processes sorted by memory usage, with the most memory-intensive processes displayed at the top. It uses the -%mem flag to sort by memory usage percentage.
