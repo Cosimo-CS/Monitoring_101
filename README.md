@@ -57,11 +57,16 @@ This resume emphasizes your expertise in IT monitoring without being copied from
 
 You can use 2 types of commands:
 
-- top
+```sh
+top
+```
 
 It will display a dynamic real-time view of the running processes. 
 By default, it sorts processes by CPU usage, but you can change it to sort by memory usage by pressing Shift + M. This will reorder the processes with the highest memory usage at the top.
 
-- ps aux --sort=-%mem | head
+```sh
+ps aux --sort=-%mem | head
+```
 
 It will lists all processes sorted by memory usage, with the most memory-intensive processes displayed at the top. It uses the -%mem flag to sort by memory usage percentage.
+
