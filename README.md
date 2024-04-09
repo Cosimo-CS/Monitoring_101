@@ -36,13 +36,13 @@ Implemented BAM tools to track key business metrics, facilitating data-driven de
 
 ## Certifications
 
-Certified IT Monitoring Professional (CITMP)
-Advanced Web Performance Monitoring Certification (AWPMC)
-Certified Application Performance Management Specialist (CAPMS)
-API Monitoring Expert (APIME)
-Real User Monitoring Certification (RUMC)
-Certified Security Monitoring Analyst (CSMA)
-Business Activity Monitoring Specialist (BAMS)
+- Certified IT Monitoring Professional (CITMP)
+- Advanced Web Performance Monitoring Certification (AWPMC)
+- Certified Application Performance Management Specialist (CAPMS)
+- API Monitoring Expert (APIME)
+- Real User Monitoring Certification (RUMC)
+- Certified Security Monitoring Analyst (CSMA)
+- Business Activity Monitoring Specialist (BAMS)
 
 
 ## Conclusion
