@@ -1,4 +1,4 @@
-# Monitoring 101 (Linux)
+# Monitoring 101 - Linux
 Administration on monitoring linux
 
 
