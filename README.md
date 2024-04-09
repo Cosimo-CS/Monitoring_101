@@ -9,21 +9,21 @@ Highly skilled IT professional with a comprehensive understanding of various IT 
 
 ## Skills
 
-Availability Monitoring
-Web Performance Monitoring
-Application Management
-Application Performance Management (APM)
-API Monitoring
-Real User Monitoring (RUM)
-Security Monitoring
-Business Activity Monitoring (BAM)
-Troubleshooting
-Cloud Integration
-Professional Experience
+- Availability Monitoring
+- Web Performance Monitoring
+- Application Management
+- Application Performance Management (APM)
+- API Monitoring
+- Real User Monitoring (RUM)
+- Security Monitoring
+- Business Activity Monitoring (BAM)
+- Troubleshooting
+- Cloud Integration
+- Professional Experience
 
-IT Monitoring Specialist
-XYZ Tech Solutions
-[Dates]
+- IT Monitoring Specialist
+- XYZ Tech Solutions
+
 
 Spearheaded availability monitoring initiatives, ensuring uninterrupted system uptime and performance.
 Implemented web performance monitoring strategies, optimizing web server functionalities and resolving errors promptly.
@@ -32,7 +32,8 @@ Managed API monitoring processes, guaranteeing seamless third-party integration 
 Conducted real user monitoring, analyzing user interactions to enhance overall website and application experience.
 Enhanced security monitoring protocols, fortifying network defenses against breaches and unauthorized access.
 Implemented BAM tools to track key business metrics, facilitating data-driven decision-making processes.
-Education
+
+## Education
 
 Bachelor of Science in Computer Science
 [University Name], [Year]
