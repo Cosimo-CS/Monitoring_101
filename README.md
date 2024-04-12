@@ -64,6 +64,8 @@ top
 It will display a dynamic real-time view of the running processes. 
 By default, it sorts processes by CPU usage, but you can change it to sort by memory usage by pressing Shift + M. This will reorder the processes with the highest memory usage at the top.
 
+![alt text](/img/top.png)
+
 ```sh
 ps aux --sort=-%mem | head
 ```
