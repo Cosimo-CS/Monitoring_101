@@ -223,7 +223,7 @@ By monitoring these metrics, system administrators can identify performance bott
 
 ### **_Example_**: tcpdump: A command-line packet analyzer.
 
-![alt text](/img/wireshark.png)
+![alt text](/img/tcpdump.png)
 
 
 ### **_Example_**: iftop: A real-time console-based network bandwidth monitoring tool.
