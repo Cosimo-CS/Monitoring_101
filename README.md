@@ -132,3 +132,7 @@ Log files are files that contain records of events, actions, and messages genera
 
 By monitoring these metrics, system administrators can identify performance bottlenecks, predict capacity needs, and ensure the overall health and stability of the system.
 
+<span style="color:red;">Red text</span>
+<span style="color:blue;">Blue text</span>
+
+
