@@ -107,8 +107,6 @@ Log files are files that contain records of events, actions, and messages genera
 
 **_Example_**: 
 
-      top
-
       mpstat
 
 ![alt text](/img/mpstat.png)
