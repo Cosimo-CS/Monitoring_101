@@ -1,7 +1,7 @@
 # Monitoring 101 - Linux
 Administration on monitoring linux
 
-
+## **What are the main area of concern when monitoring a system?**
 
 ## Professional Profile
 
@@ -43,11 +43,6 @@ Highly skilled IT professional with a comprehensive understanding of various IT 
 - Real User Monitoring Certification (RUMC)
 - Certified Security Monitoring Analyst (CSMA)
 - Business Activity Monitoring Specialist (BAMS)
-
-
-## Conclusion
-
-This resume emphasizes your expertise in IT monitoring without being copied from someone else. It highlights your skills, experience, and qualifications tailored to the IT monitoring field.
 
 -----------------------------------------
 
@@ -183,3 +178,7 @@ By monitoring these metrics, system administrators can identify performance bott
 ### **_Example_**: nload: A console-based network traffic monitor with a graph.
 
 ![alt text](/img/nload.png)
+
+## Conclusion
+
+In summary, monitoring on Linux is essential for maintaining the health, performance, and security of Linux systems. By implementing a robust monitoring strategy, administrators can proactively manage resources, optimize performance, mitigate security risks, and ensure the reliability and availability of Linux-based infrastructure to support business operations effectively.
