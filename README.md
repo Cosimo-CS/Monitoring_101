@@ -106,8 +106,7 @@ Log files are files that contain records of events, actions, and messages genera
 
 ## **4. What are the different metrics of health and performance of a system ? ?**
 
-
-- The health and performance of a system can be measured using a variety of metrics across different categories. Here are some of the key metrics:
+#### The health and performance of a system can be measured using a variety of metrics across different categories. Here are some of the key metrics:
 
 - **_CPU Utilization_**: Measures the percentage of time the CPU spends executing non-idle tasks. High CPU utilization can indicate a system bottleneck.
 
