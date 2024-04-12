@@ -143,7 +143,7 @@ By monitoring these metrics, system administrators can identify performance bott
 
 ## **6. How can you assess the network traffic ?**
 
-- By monitoring and analyzing the data flowing through a network interface to understand its usage, performance, and potential issues.
+#### By monitoring and analyzing the data flowing through a network interface to understand its usage, performance, and potential issues.
 
 - **_Network Monitoring Tools_**: Utilize network monitoring tools like Wireshark, tcpdump, or ntop to capture and analyze network packets in real-time. These tools provide detailed insights into network traffic, including source and destination IP addresses, protocols, packet sizes, and payload contents.
 
