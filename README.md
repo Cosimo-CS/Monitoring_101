@@ -147,7 +147,9 @@ By monitoring these metrics, system administrators can identify performance bott
 
 - **_Network Monitoring Tools_**: Utilize network monitoring tools like Wireshark, tcpdump, or ntop to capture and analyze network packets in real-time. These tools provide detailed insights into network traffic, including source and destination IP addresses, protocols, packet sizes, and payload contents.
 
+
 - **_NetFlow/SFlow_**: Enable NetFlow or sFlow on network devices such as routers, switches, or firewalls to collect flow data summarizing network traffic patterns. Analyze this data using NetFlow analyzers or collectors to identify top talkers, bandwidth usage, and traffic trends.
+
 
 - **_SNMP Monitoring_**: Implement SNMP (Simple Network Management Protocol) monitoring to gather network performance metrics from devices such as routers, switches, and servers. Use SNMP monitoring software like Cacti, Nagios, or Zabbix to collect and visualize network traffic statistics over time.
 
@@ -161,6 +163,24 @@ By monitoring these metrics, system administrators can identify performance bott
 
 - **_Flow-based Analysis_**: Use flow-based analysis tools such as SiLK, Argus, or YAF (Yet Another Flowmeter) to process NetFlow, IPFIX, or sFlow data for generating flow records and conducting traffic analysis at scale. These tools enable long-term storage, querying, and visualization of network flow data for forensic investigations and compliance requirements.
 
+- **_Example_**: Wireshark: A powerful network protocol analyzer.
 
+![alt text](/img/wireshark.png)
 
+- **_Example_**: tcpdump: A command-line packet analyzer.
 
+![alt text](/img/wireshark.png)
+
+- **_Example_**: ntopng: A high-speed web-based traffic analysis tool.
+
+- **_Example_**: iftop: A real-time console-based network bandwidth monitoring tool.
+
+![alt text](/img/iftop.png)
+
+- **_Example_**: bmon: A simple real-time bandwidth monitoring tool.
+
+![alt text](/img/bmon.png)
+ 
+- **_Example_**: nload: A console-based network traffic monitor with a graph.
+
+![alt text](/img/nload.png)
