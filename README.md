@@ -107,29 +107,29 @@ Log files are files that contain records of events, actions, and messages genera
 ## **4. What are the different metrics of health and performance of a system ? ?**
 
 
-The health and performance of a system can be measured using a variety of metrics across different categories. Here are some of the key metrics:
+- The health and performance of a system can be measured using a variety of metrics across different categories. Here are some of the key metrics:
 
-CPU Utilization: Measures the percentage of time the CPU spends executing non-idle tasks. High CPU utilization can indicate a system bottleneck.
+- **_CPU Utilization_**: Measures the percentage of time the CPU spends executing non-idle tasks. High CPU utilization can indicate a system bottleneck.
 
-Memory Usage: Tracks the amount of RAM being used by processes and the system. Monitoring memory usage helps prevent out-of-memory errors and performance degradation due to excessive swapping.
+- **_Memory Usage_**: Tracks the amount of RAM being used by processes and the system. Monitoring memory usage helps prevent out-of-memory errors and performance degradation due to excessive swapping.
 
-Disk Usage: Monitors the amount of disk space used by files and applications. High disk usage can lead to performance issues and may indicate the need for additional storage or cleanup.
+- **_Disk Usage_**: Monitors the amount of disk space used by files and applications. High disk usage can lead to performance issues and may indicate the need for additional storage or cleanup.
 
-Disk I/O: Measures the rate of data read from and written to the disk. High disk I/O can impact system responsiveness and indicate storage bottlenecks.
+- **_Disk I/O_**: Measures the rate of data read from and written to the disk. High disk I/O can impact system responsiveness and indicate storage bottlenecks.
 
-Network Throughput: Tracks the amount of data sent and received over the network interface. Monitoring network throughput helps identify network congestion and performance issues.
+- **_Network Throughput_**: Tracks the amount of data sent and received over the network interface. Monitoring network throughput helps identify network congestion and performance issues.
 
-System Load Average: Represents the average number of processes in the run queue over different time intervals (1, 5, and 15 minutes). High load averages may indicate a system under heavy load.
+- **_System Load Average_**: Represents the average number of processes in the run queue over different time intervals (1, 5, and 15 minutes). High load averages may indicate a system under heavy load.
 
-Process Performance: Monitors individual process metrics such as CPU usage, memory consumption, and disk I/O. Identifying resource-intensive processes helps optimize system performance.
+- **_Process Performance_**: Monitors individual process metrics such as CPU usage, memory consumption, and disk I/O. Identifying resource-intensive processes helps optimize system performance.
 
-System Uptime: Measures the duration for which the system has been running without a reboot. Long uptimes indicate system stability, while frequent reboots may indicate instability or maintenance.
+- **_System Uptime_**: Measures the duration for which the system has been running without a reboot. Long uptimes indicate system stability, while frequent reboots may indicate instability or maintenance.
 
-Temperature and Hardware Health: Monitors the temperature of critical hardware components such as CPU, GPU, and hard drives. High temperatures can lead to hardware failures and performance degradation.
+- **_Temperature and Hardware Health_**: Monitors the temperature of critical hardware components such as CPU, GPU, and hard drives. High temperatures can lead to hardware failures and performance degradation.
 
-System Logs: Analyzes system logs for errors, warnings, and other messages that may indicate system health or performance issues.
+- **_System Logs_**: Analyzes system logs for errors, warnings, and other messages that may indicate system health or performance issues.
 
-Application-specific Metrics: Tracks metrics relevant to specific applications or services running on the system, such as web server requests per second, database query latency, or application response time.
+- **_Application-specific Metrics_**: Tracks metrics relevant to specific applications or services running on the system, such as web server requests per second, database query latency, or application response time.
 
 By monitoring these metrics, system administrators can identify performance bottlenecks, predict capacity needs, and ensure the overall health and stability of the system.
 
