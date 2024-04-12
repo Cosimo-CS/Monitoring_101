@@ -132,7 +132,16 @@ Log files are files that contain records of events, actions, and messages genera
 
 By monitoring these metrics, system administrators can identify performance bottlenecks, predict capacity needs, and ensure the overall health and stability of the system.
 
-<span style="color:red;">Red text</span>
-<span style="color:blue;">Blue text</span>
+## **5. How can you check the uptime of a machine ?**
+
+- We will use "uptime" or "w" to have more details
+
+![alt text](/img/w-uptime.png)
+
+- This will display the current time, how long the system has been running, the number of users currently logged in, and the system load averages for the last 1, 5, and 15 minutes.
+
+
+## **6. How can you assess the network traffic ?**
+
 
 
